@@ -1,0 +1,18 @@
+1) Download VMware Workstation from download website : 
+https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+
+
+
+2) Download Ubuntu from ubuntu direct site : 
+https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64
+
+
+
+Enter the BIOS interface: 
+Press the shortcut Delete/ F12 continuously while booting the computer. 
+Click <Advanced>-> <Processor> (CPU)-> 
+Virtual or Virtualization, 
+for some computers, 
+VT are included in Configuration or Security. 
+Set the VT option to Enabled.
+Press Save (usually F10) to save and exit (Save & Exit)
